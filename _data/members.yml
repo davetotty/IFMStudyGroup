@@ -7,10 +7,15 @@
     - Data Science
     - Open Science
 
-
 - name: Bill Mills
   affiliation: TRIUMF
   github: BillMills
   interests:
     - Programming
     - Open Science
+
+- name: We Will Add You Here
+  affiliation: Your Affiliation
+  github: 
+  interests:
+    - Your Interests
