@@ -1,0 +1,9 @@
+---
+title: Study Group Introductory Session
+text: Join us for our first event to talk about the organization and future events!
+location: IFM, Lecture Th. D
+link: https://github.com/davetotty/IFMStudyGroup/issues/2
+date: 2017-05-23
+startTime: '16:00'
+endTime: '17:00' 
+---
